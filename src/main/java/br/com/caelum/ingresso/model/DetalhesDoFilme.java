@@ -72,6 +72,7 @@ public class DetalhesDoFilme {
 		return atores;
 	}
 
+
 	public void setAtores(String atores) {
 		this.atores = atores;
 	}
